@@ -3,7 +3,7 @@
 A Flask web application for text summarization using NLTK.
 
 Video Demo 
-[Loom demo video](https://www.loom.com/share/fc7bdef14d114809b0c0a49f3b706da2?sid=cd13e19c-3e1e-479a-9750-114970941eca)
+[Loom demo video](https://www.loom.com/share/067648af77254bb5b4a63761234c31c9?sid=89c3d32b-2e42-4252-a6bd-73f88e17db49)
 
 ## Features
 
