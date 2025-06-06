@@ -1,8 +1,10 @@
 # Text Summarizer
 
 A Flask web application for text summarization using NLTK.
+
 Video Demo 
 [Loom demo video](https://www.loom.com/share/fc7bdef14d114809b0c0a49f3b706da2?sid=cd13e19c-3e1e-479a-9750-114970941eca)
+
 ## Features
 
 - Modern Tailwind CSS UI
