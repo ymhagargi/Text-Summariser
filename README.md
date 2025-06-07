@@ -63,10 +63,9 @@ Video Demo
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone (https://github.com/ymhagargi/Text-Summariser)
     cd text-summarizer 
     ```
-    *(Replace `<your-repository-url>` with the actual URL of your GitHub repository)*
 
 2.  **Create and activate a virtual environment (recommended):**
     *   On macOS and Linux:
@@ -96,10 +95,9 @@ Video Demo
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <your-repository-url>
+    git clone (https://github.com/ymhagargi/Text-Summariser)
     cd text-summarizer
     ```
-    *(Replace `<your-repository-url>` with the actual URL of your GitHub repository)*
 
 2.  **Build the Docker image:**
     Navigate to the project's root directory (where the `Dockerfile` is located) and run:
